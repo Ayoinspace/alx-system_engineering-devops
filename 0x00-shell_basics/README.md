@@ -1,0 +1,1 @@
+Script that print pwd
